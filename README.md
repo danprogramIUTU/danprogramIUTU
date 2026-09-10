@@ -1,16 +1,18 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Daniel Franco - Full-Stack Developer Banner" src="dark.svg" width="100%">
+</picture>
 
-<!--
-**danprogramIUTU/danprogramIUTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+<!-- Streak Stats (Ancho completo 100%) -->
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=danprogramIUTU&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=22D3EE&sideLabels=6B7280&dates=6B7280&hide_border=false" alt="Daniel Franco GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats Cards & Top Languages Side-by-Side (Width 49% cada una) -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-danprogramiutu-4644s-projects.vercel.app/api?username=danprogramIUTU&show_icons=true&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=F3F4F6&icon_color=10B981&hide_rank=true" alt="Daniel Franco GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-danprogramiutu-4644s-projects.vercel.app/api/top-langs/?username=danprogramIUTU&layout=compact&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=F3F4F6&hide=html,css" alt="Daniel Franco Top Languages" />
+</p>
