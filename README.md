@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
-  <img alt="Daniel Franco - Full-Stack Developer Banner" src="dark.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+  <img alt="Daniel Franco - Full-Stack Developer Banner" src="dark.svg?v=3" width="100%">
 </picture>
 
 <br/><br/>
@@ -16,6 +16,7 @@
   <img width="49%" src="https://github-readme-stats-danprogramiutu-4644s-projects.vercel.app/api?username=danprogramIUTU&show_icons=true&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=F3F4F6&icon_color=10B981&hide_rank=true" alt="Daniel Franco GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-danprogramiutu-4644s-projects.vercel.app/api/top-langs/?username=danprogramIUTU&layout=compact&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=F3F4F6&hide=html,css" alt="Daniel Franco Top Languages" />
 </p>
+
 <br/><br/>
 
 <!-- Contribution Snake Animation -->
